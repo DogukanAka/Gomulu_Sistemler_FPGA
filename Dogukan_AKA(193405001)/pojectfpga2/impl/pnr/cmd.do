@@ -1,0 +1,11 @@
+-d C:\Users\AktasSule\Documents\pojectfpga2\impl\gwsynthesis\pojectfpga2.vg
+-p GW1NZ-1-QFN48-6
+-pn GW1NZ-LV1QN48C6/I5
+-cst C:\Users\AktasSule\Documents\pojectfpga2\src\pojectfpga2.cst
+-cfg C:\Users\AktasSule\Documents\pojectfpga2\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 10
